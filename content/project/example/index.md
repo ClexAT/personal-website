@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 slides: example
 url_pdf: ""
 summary: Student Autorotation Project that was flown on a suborbital rocket.
