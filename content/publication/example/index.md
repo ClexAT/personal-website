@@ -56,7 +56,7 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: An example conference paper
+title: "Calathus: A sample-return mission to Ceres"
 doi: https://doi.org/10.1016/j.actaastro.2020.12.050
 featured: true
 tags: []
