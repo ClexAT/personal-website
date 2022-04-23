@@ -25,7 +25,7 @@ links:
 image:
   caption: ""
   focal_point: Smart
-  preview_only: true
+  preview_only: false
   filename: images.png
   alt_text: Daedalus 1 Logo
 url_code: ""
