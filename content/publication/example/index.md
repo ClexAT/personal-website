@@ -65,7 +65,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: https://en.wikipedia.org/wiki/Calathus_Mission#/media/File:PIA20350_crop_-_Occator_from_LAMO.jpg
+  filename: ""
 date: 2022-04-20T14:19:57.994Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
