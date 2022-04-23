@@ -23,8 +23,11 @@ links:
   - url: wuespace.de
     name: Current Developments and Follow Projects
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: ""
   focal_point: Smart
+  preview_only: true
+  filename: null
+  alt_text: Daedalus 1 Logo
 url_code: ""
 ---
 We had a ton of fun here. Details will follow
