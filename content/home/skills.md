@@ -25,8 +25,8 @@ feature:
   icon_pack: fas
   name: Rotorcraft (GNC)
 - description: 100%
-  icon: heart
-  icon_pack: fas
+  icon: matlab
+  icon_pack: custom
   name: Matlab
 - description: 75%
   icon: satellite
@@ -35,11 +35,11 @@ feature:
 - description: 25%
   icon: python
   icon_pack: fab
-  name: python
+  name: Python
 - description: 100%
   icon: overleaf
   icon_pack: ai
-  name: latex
+  name: Latex
 
 
 
