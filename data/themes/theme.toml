@@ -1,0 +1,23 @@
+# Theme metadata
+name = "ClexIdentity"
+
+[light]
+  # Primary
+  primary = "#0081cf"
+
+  # Menu
+  menu_primary = "#0081cf"
+  menu_text = "#fff"
+  menu_text_active = "#dea01e"
+  menu_title = "#dea01e"
+
+  # Home sections
+  home_section_odd = "rgb(255, 255, 255)"
+  home_section_even = "rgb(247, 247, 247)"
+
+[dark]
+  # Primary
+  primary = "#bbdefb"
+
+  link = "#bbdefb"
+  link_hover = "#bbdefb"
