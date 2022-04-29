@@ -10,7 +10,7 @@ date: 2022-04-20T13:38:16.181Z
 external_link: ""
 url_slides: ""
 title: Daedalus 1
-subtitle: Student Autorotation Experiment 2016-2019
+subtitle: Student Autorotation Experiment 2016-2019 on REXUS 23
 tags:
   - Reentry
   - Autorotation
