@@ -16,18 +16,33 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
+- description: 75%
+  icon: space-shuttle
+  icon_pack: fas
+  name: Reentry Vehicles (GNC)
+- description: 75%
+  icon: helicopter
+  icon_pack: fas
+  name: Rotorcraft (GNC)
 - description: 100%
-  icon: chart-line
+  icon: heart
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: Matlab
+- description: 75%
+  icon: satellite
   icon_pack: fas
-  name: Photography
+  name: Space System Design
+- description: 25%
+  icon: python
+  icon_pack: fab
+  name: python
+- description: 100%
+  icon: overleaf
+  icon_pack: ai
+  name: latex
+
+
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
