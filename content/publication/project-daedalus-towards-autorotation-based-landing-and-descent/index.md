@@ -5,6 +5,13 @@ publication_types:
   - "1"
 authors:
   - Clemens Riegler
+  - Ivaylo Angelov
+  - Abdurrahman Bilican
+  - Florian Kohmann
+  - Tobias Neumann
+  - Jonas Staus
+  - Christoph Fröhlich
+  - Frederik Dunschen
 publication: https://iafastro.directory/iac/paper/id/57706/summary/
 abstract: >-
   Humans strive to explore the solar system more than ever before. Many

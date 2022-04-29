@@ -66,4 +66,4 @@ subtitle: null
 design:
   columns: "2"
 ---
-This is a list of my most important experiences
+This is a list of my most important experiences. The full list can be found on my [LinkedIn](https://www.linkedin.com/in/clemens-riegler-579a7866/).

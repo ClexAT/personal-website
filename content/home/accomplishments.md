@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Awards & Honors'
 subtitle:
 
 # Date format
@@ -23,31 +23,46 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
 
+- certificate_url: ""
+  date_end: ""
+  date_start: "2022-01-01"
+  description: ""
+  organization: SdV
+  organization_logo: SdV
+  organization_url: https://www.studienstiftung.de/
+  title: Full PhD Scholarship by the German Study Association
+  url: https://www.studienstiftung.de/infos-fuer-promovierende/promotionsfoerderung-der-studienstiftung/
+
+- certificate_url: ""
+  date_end: ""
+  date_start: "2018-07-01"
+  description: ""
+  organization: FFG
+  organization_logo: Airbus
+  organization_url: https://www.summerschoolalpbach.at/
+  title: Best Scientific Case & Best Overall Mission (Mission Carina) 
+  url: https://www.summerschoolalpbach.at/index.php?file=students.htm 
+  
+- certificate_url: ""
+  date_end: ""
+  date_start: "2021-02-28"
+  description: ""
+  organization: JMU
+  organization_url: https://www.uni-wuerzburg.de/satec/home/
+  title: Top of the Class, SaTec 2021 with outstanding master's thesis
+  url: "" 
+ 
+- certificate_url: ""
+  date_end: ""
+  date_start: "2015-09-01"
+  description: ""
+  organization: Airbus
+  organization_url: https://www.airbus.com/en
+  title: Young Talent Scholarship
+  url: "" 
+  
+ 
 design:
   columns: '2' 
 ---

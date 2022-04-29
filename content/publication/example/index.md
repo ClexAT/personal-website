@@ -22,9 +22,32 @@ abstract: "Ceres, as revealed by NASA's Dawn spacecraft, is an ancient,
 slides: ""
 url_pdf: ""
 publication_types:
-  - "1"
+  - "2"
 authors:
+  - Oriane Gassot
+  - Paolo Panicucci
+  - Giacomo Acciarini
+  - Helena Bates
+  - Manel Caballero
+  - Pamela Cambianica
+  - Maciej Dziewiecki
+  - Zelia Dionnet
+  - Florine Enengl
+  - Selina-Barbara Gerig
+  - Felix Hessinger
+  - Lucy Kissick
+  - Moritz Novak
+  - Carmine Pellegrino
+  - Angèle Pontoni
+  - Tânia M Ribeiro
   - Clemens Riegler
+  - Nini Berge
+  - Nikolaus Huber
+  - Richard Hynek
+  - Bartosz Kędziora
+  - Adam Kiss
+  - Maurice Martin
+  - Javier Navarro Montilla
 author_notes: []
 publication: In *Acta Astronautica*
 summary: Return a sample from Ceres. A hard task but an interesting one!
