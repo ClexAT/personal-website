@@ -30,4 +30,4 @@ image:
   alt_text: Daedalus 1 Logo
 url_code: ""
 ---
-We had a ton of fun here. Details will follow
+We had a ton of fun here. Details will follow soon!
