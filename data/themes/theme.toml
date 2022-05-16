@@ -3,13 +3,13 @@ name = "ClexIdentity"
 
 [light]
   # Primary
-  primary = "#dea01e"
+  primary = "#8d6708"
 
   # Menu
   menu_primary = "#000060"
   menu_text = "#fff"
-  menu_text_active = "#dea01e"
-  menu_title = "#dea01e"
+  menu_text_active = "#8d6708"
+  menu_title = "#8d6708"
 
   # Home sections
   home_section_odd = "rgb(255, 255, 255)"
