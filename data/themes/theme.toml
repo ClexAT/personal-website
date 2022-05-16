@@ -17,9 +17,8 @@ name = "ClexIdentity"
 
 [dark]
   # Primary
-  primary = "#bbdefb"
+  primary = "#64d3fd"
 
   link = "#bbdefb"
   link_hover = "#bbdefb"
   
-  menu_primary = "#64d3fd"
