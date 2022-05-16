@@ -1,4 +1,4 @@
-# Theme metadata
+# Theme metadata test
 name = "ClexIdentity"
 
 [light]
@@ -6,7 +6,7 @@ name = "ClexIdentity"
   primary = "#dea01e"
 
   # Menu
-  menu_primary = "#0081cf"
+  menu_primary = "#1e54de"
   menu_text = "#fff"
   menu_text_active = "#dea01e"
   menu_title = "#dea01e"
