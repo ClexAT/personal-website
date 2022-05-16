@@ -3,7 +3,7 @@ name = "ClexIdentity"
 
 [light]
   # Primary
-  primary = "#dea01e"
+  primary = "#00060"
 
   # Menu
   menu_primary = "#4267c5"
