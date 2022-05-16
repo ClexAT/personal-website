@@ -21,3 +21,5 @@ name = "ClexIdentity"
 
   link = "#bbdefb"
   link_hover = "#bbdefb"
+  
+  menu_primary = "#64d3fd"
