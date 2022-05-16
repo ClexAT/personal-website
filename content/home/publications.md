@@ -36,6 +36,6 @@ design:
   columns: '2'
 ---
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+<ins>This is a section of my papers. The full list can be found on my [Google Scholar](https://scholar.google.de/citations?user=-pemoqUAAAAJ&hl=de).</ins>
+
+
