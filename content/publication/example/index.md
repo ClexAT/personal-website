@@ -19,8 +19,6 @@ abstract: "Ceres, as revealed by NASA's Dawn spacecraft, is an ancient,
   high-precision analyses to understand the salt and organic composition of the
   Occator faculae, and from there to assess both the habitability and the
   evolution of a relict ocean world from the dawn of the Solar System."
-slides: ""
-url_pdf: ""
 publication_types:
   - "2"
 authors:
@@ -66,9 +64,9 @@ image:
   focal_point: ""
   preview_only: false
   filename: ""
-date: 2022-04-20T14:19:57.994Z
+date: 2021-04-20T14:19:57.994Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2021-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
