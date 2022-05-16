@@ -6,7 +6,7 @@ name = "ClexIdentity"
   primary = "#dea01e"
 
   # Menu
-  menu_primary = "#1e54de"
+  menu_primary = "#1E54DE"
   menu_text = "#fff"
   menu_text_active = "#dea01e"
   menu_title = "#dea01e"
