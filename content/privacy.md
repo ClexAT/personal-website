@@ -22,28 +22,34 @@ The following privacy policy is intended to inform you in particular about the t
 Our privacy policy is structured as follows:
 
 I. Information about us as controllers of your data
+
 II. The rights of users and data subjects
+
 III. Information about the data processing
 
 I. Information about us as controllers of your data
 The party responsible for this website (the "controller") for purposes of data protection law is:
 
-Clemens Riegler
-Informatik 8
-Emil-Fischerstr. 32
-97072 Würzburg
-Germany
+* Clemens Riegler
+* Informatik 8
+* Emil-Fischerstr. 32
+* 97072 Würzburg
+* Germany
 
-Telephone: 00499313182966
-Email: clemens.riegler@uni-wuerzburg.de
+* Telephone: 00499313182966
+* Email: clemens.riegler@uni-wuerzburg.de
 
 II. The rights of users and data subjects
 With regard to the data processing to be described in more detail below, users and data subjects have the right
 
 to confirmation of whether data concerning them is being processed, information about the data being processed, further information about the nature of the data processing, and copies of the data (cf. also Art. 15 GDPR);
+
 to correct or complete incorrect or incomplete data (cf. also Art. 16 GDPR);
+
 to the immediate deletion of data concerning them (cf. also Art. 17 DSGVO), or, alternatively, if further processing is necessary as stipulated in Art. 17 Para. 3 GDPR, to restrict said processing per Art. 18 GDPR;
+
 to receive copies of the data concerning them and/or provided by them and to have the same transmitted to other providers/controllers (cf. also Art. 20 GDPR);
+
 to file complaints with the supervisory authority if they believe that data concerning them is being processed by the controller in breach of data protection provisions (see also Art. 77 GDPR).
 In addition, the controller is obliged to inform all recipients to whom it discloses data of any such corrections, deletions, or restrictions placed on processing the same per Art. 16, 17 Para. 1, 18 GDPR. However, this obligation does not apply if such notification is impossible or involves a disproportionate effort. Nevertheless, users have a right to information about these recipients.
 
@@ -285,4 +291,4 @@ https://policies.google.com/privacy
 
 in particular on options for preventing the use of data.
 
-Model Data Protection Statement for Anwaltskanzlei Weiß & Partner
+Source: Model Data Protection Statement for Anwaltskanzlei Weiß & Partner.
