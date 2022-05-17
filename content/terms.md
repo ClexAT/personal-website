@@ -34,6 +34,6 @@ Represented by
 
 Responsible according to §55 Abs. 2 RStV:
 * Clemens Riegler
-*Leiblstraße 4A
+* Leiblstraße 4A
 * 97072 Würzburg
 E-Mail: clemens.riegler@uni-wuerzburg.de
