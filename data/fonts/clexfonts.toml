@@ -1,0 +1,10 @@
+name = "clexfonds"
+
+# Optional Google font URL
+google_fonts = "family=Nunito&family=Open+Sans:wght@300"
+
+# Font families
+heading_font = "Nunito"
+body_font = "Open Sans"
+nav_font = "Nunito"
+mono_font = "Open Sans"

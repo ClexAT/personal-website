@@ -17,15 +17,8 @@ name = "ClexIdentity"
 
 [dark]
   # Primary
-  primary = "#090080"
+  primary = "#F4D03F"
 
-  # Menu
-  menu_primary = "#090080"
-  menu_text = "#fff"
-  menu_text_active = "#F4D03F"
-  menu_title = "#F4D03F"
-
-  # Home sections
-  home_section_odd = "rgb(255, 255, 255)"
-  home_section_even = "rgb(247, 247, 247)"
+  link = "#bbdefb"
+  link_hover = "#bbdefb"
   
