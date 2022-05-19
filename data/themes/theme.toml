@@ -15,10 +15,5 @@ name = "ClexIdentity"
   home_section_odd = "rgb(255, 255, 255)"
   home_section_even = "rgb(247, 247, 247)"
 
-[dark]
-  # Primary
-  primary = "#F4D03F"
 
-  link = "#bbdefb"
-  link_hover = "#bbdefb"
   
