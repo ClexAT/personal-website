@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: theme
+  #theme_day: theme
   theme_night: themedark
   font: clexfonts
   font_size: L
